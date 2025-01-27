@@ -1,0 +1,32 @@
+
+
+.cart-head{
+    background: green;
+    color: #fff;
+}
+.search-opt{
+  outline: none;
+  color: #fff;
+}
+.cart-head input::placeholder{
+  color: #fff!important;
+}
+.desc img{
+  width: 100px;
+  height: 100px;
+}
+.item-img{
+  width: 150px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: aquamarine;
+}
+.cart-item{
+  border: 1px solid black;
+  background: lightseagreen;
+  padding: 10px;
+  border-radius: 30px;
+}
+.addcart-btn{
+  background: green;
+}
